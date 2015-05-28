@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">MOGAO</string>
+    
+    <string name="share_by_system">分享</string>
+    
+     <!-- 头像获取 -->
+    <string name="crop_image_title">头像设置</string>    
+    <string name="crop_image_message">选取头像的方式</string>    
+    <string name="crop_image_from_camera">相机</string>    
+    <string name="crop_image_from_gallery">相册</string>
+    
+    <!-- 扫描 -->
+
+    <string name="scan_bar">扫描</string>    
+    <string name="scan_cancle">取消</string>    
+    <string name="scan_certain">确认</string>
+</resources>

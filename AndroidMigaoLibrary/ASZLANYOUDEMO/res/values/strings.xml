@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">SZLYDEMO</string>    
+    <string name="menu_zoom_enable">Enable Zoom</string>
+    <string name="menu_zoom_disable">Disable Zoom</string>
+    <string name="menu_scale_fit_center">Change to FIT_CENTER</string>
+    <string name="menu_scale_fit_start">Change to FIT_START</string>
+    <string name="menu_scale_fit_end">Change to FIT_END</string>
+    <string name="menu_scale_fit_xy">Change to FIT_XY</string>
+    <string name="menu_scale_center">Change to CENTER</string>
+    <string name="menu_scale_center_inside">Change to CENTER_INSIDE</string>
+    <string name="menu_scale_center_crop">Change to CENTER_CROP</string>
+    
+    <!-- begin validate -->
+    <!-- 所有错误提示，都是以e_开头_hint结尾 -->
+    <string name="e_username_hint">请输入正确的用户名</string>
+    <string name="e_password_hint">请输入正确的密码</string>
+
+    <!-- EditText Max Length -->
+    <string name="max_length_username">12</string>
+    <string name="max_length_password">12</string>
+
+    <!-- 常规 -->
+    <string name="edit_text_type">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="submit">Submit</string>
+
+    <!-- LoginActivity -->
+    <string name="login_title">Login</string>
+    <string name="login_username_hint">Enter Username</string>
+    <string name="login_password_hint">Enter Password</string>
+    <string name="login_username_length_hint">Username length between 8 to 12</string>
+    <string name="login_password_length_hint">Password length between 8 to 12</string>    
+    <!-- end validate -->
+
+</resources>
